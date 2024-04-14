@@ -37,6 +37,3 @@ And run
 
 ## Usage
 After launching the application, visit http://localhost:8000 in your browser to interact with the chatbot. Enter your questions or messages, and the chatbot will respond accordingly.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
